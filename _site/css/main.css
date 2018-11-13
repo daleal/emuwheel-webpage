@@ -59,7 +59,7 @@ body:not(.user-is-tabbing) a:focus {
 
 /* HEADER STYLES */
 .header {
-  background-color: #ddd;
+  background-color: #0f0924;
   color: #b0f01a; /* #76e85d; #12d491 */
   font-size: 1.3em;
   position: fixed;
@@ -67,7 +67,7 @@ body:not(.user-is-tabbing) a:focus {
   z-index: 20;
 }
 .header-logo {
-  background-color: #ddd;
+  background-color: #0f0924;
   box-sizing: border-box;
   display: block;
   height: 8vw;
@@ -77,7 +77,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 .header-logo:hover,
 .header-logo:active {
-  background-color: #fff; /* #1d33af; */
+  background-color: #707070; /* #1d33af; */
   transition: all 0.4s ease;
 }
 .header-logo:not(:active) {
