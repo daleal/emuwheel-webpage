@@ -205,15 +205,18 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 /* CONTACT STYLES */
+.contact-container {
+  display: flex;
+  flex-wrap: wrap;
+}
 .contact-info {
-  float: left;
-  margin-top: 3vw;
-  width: 25vw;
+  flex-grow: 0;
+  margin: 3vw;
 }
 .location {
-  float: right;
+  flex-grow: 1;
   height: 25vw;
-  margin-top: 3vw;
+  margin: 3vw;
   width: 25vw;
 }
 .location iframe {
@@ -314,5 +317,13 @@ h1,h2,h3,h4,h5,h6 {
   }
   .section-content h1 {
     font-size: 1.1em;
+  }
+  .contact-info,
+  .location {
+    margin: 3vh;
+  }
+  .location {
+    height: 40vh;
+    width: 40vh;
   }
 }
