@@ -59,7 +59,7 @@ body:not(.user-is-tabbing) a:focus {
 .content-container {
   display: flex;
   flex: 1 1 auto;
-  padding-top: 8vw;
+  padding-top: 16vh;
   width: 100%;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -79,10 +79,10 @@ h1,h2,h3,h4,h5,h6 {
   background-color: #0f0924;
   box-sizing: border-box;
   display: block;
-  height: 8vw;
+  height: 16vh;
   position: relative;
   text-align: center;
-  width: 8vw;
+  width: 16vh;
 }
 .header-logo:hover,
 .header-logo:active {
@@ -96,11 +96,11 @@ h1,h2,h3,h4,h5,h6 {
   position: relative;
   top: 50%;
   transform: translate(0, -50%);
-  width: 8vw;
+  width: 16vh;
 }
 .header-nav {
   float: right;
-  padding: 3.5vw 3.5vw 0 0;
+  padding: 7vh 3.5vw 0 0;
 }
 .header-nav > li {
   display: inline-block;
@@ -143,6 +143,37 @@ h1,h2,h3,h4,h5,h6 {
 .mobile-menu-check,
 .show-mobile-menu {
   display: none;
+}
+
+/* HERO STYLES */
+.home {
+  width: 100%;
+}
+.full-hero {
+  background-color: #0f0924;
+  background-size: cover;
+  box-sizing: border-box;
+  height: 84vh;
+}
+.hero-home {
+  background-image: url(/images/content/person_over_emu.jpg);
+  background-position: center center;
+}
+.hero-content {
+  color: #0f0924;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+.hero-content h1 {
+  color: #0f0924;
+  font-size: 6vw;
+}
+.hero-content h1 span {
+  color: #12d491;
+  font-weight: bold;
 }
 
 /* FOOTER STYLES */
