@@ -198,32 +198,68 @@ h1,h2,h3,h4,h5,h6 {
   width: 100%;
 }
 .hero-product-content {
-  position: relative;
+  position: absolute;
 }
-.hero-product {
+.down-arrow {
+  display: block;
+  margin-top: 73vh;
+  margin-left: 50vw;
+  position: absolute;
+  transform: translate(-50%, 0);
+}
+.down-arrow a {
+  color: #557c839f;
+  font-size: 4em;
+}
+.hero-product-content h1 {
+  color: #12d491;
+  font-family: 'eurofurence light  italic';
+  font-size: 6vw;
+}
+.hero-product-content h1 span {
+  color: #12d491;
+  font-weight: bold;
+}
+.hero-product-1 {
   background-image: url(/images/content/emu_fotomontaje.jpg);
   background-position-x: center;
   background-position-y: 20%;
+  position: relative;
+}
+.product-1-data {
+  padding-top: 35vh;
+  padding-left: 5vw;
+  color: #fff;
+}
+.product-1-data hr {
+  border: 1px solid #fff;
+  margin-top: 5vw;
+  margin-left: 1vw;
+  width: 18vw;
 }
 .hero-product-2 {
   background-image: url(/images/content/emu_fotomontaje2.jpg);
   background-position-x: center;
   background-position-y: 20%;
+  position: relative;
 }
 .hero-product-3 {
   background-image: url(/images/content/emu_fotomontaje3-redone.jpg);
   background-position-x: center;
   background-position-y: top;
+  position: relative;
 }
 .hero-product-4 {
   background-image: url(/images/content/v8_06.jpg);
   background-position-x: center;
   background-position-y: 20%;
+  position: relative;
 }
 .hero-product-5 {
   background-image: url(/images/content/emu_fotomontaje4.jpg);
   background-position-x: center;
   background-position-y: 20%;
+  position: relative;
 }
 
 /* FOOTER STYLES */
