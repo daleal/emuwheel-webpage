@@ -169,7 +169,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 .hero-content h1 {
   color: #0f0924;
-  font-size: 6vw;
+  font-family: 'eurofurence light  italic';
+  font-size: 8vw;
 }
 .hero-content h1 span {
   color: #12d491;
@@ -229,7 +230,7 @@ h1,h2,h3,h4,h5,h6 {
   width: 85vw;
 }
 .section-header h1 {
-  font-size: 3.5em;
+  font-size: 4em;
   font-weight: bold;
   margin-bottom: 0.2em;
   text-align: center;
@@ -263,9 +264,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 .location {
   flex-grow: 1;
-  height: 25vw;
+  height: 20vw;
   margin: 3vw;
-  width: 25vw;
+  width: 10vw;
 }
 .location iframe {
   position: relative;

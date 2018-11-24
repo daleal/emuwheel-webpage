@@ -9,22 +9,27 @@
 
 <url>
   <loc>http://www.emuwheel.tk/</loc>
-  <lastmod>2018-11-13T02:57:03+00:00</lastmod>
+  <lastmod>2018-11-20T17:30:54+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>http://www.emuwheel.tk/nosotros/</loc>
-  <lastmod>2018-11-13T02:57:03+00:00</lastmod>
+  <lastmod>2018-11-20T17:30:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.emuwheel.tk/la-rueda/</loc>
-  <lastmod>2018-11-13T02:57:03+00:00</lastmod>
+  <lastmod>2018-11-20T17:30:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.emuwheel.tk/faq/</loc>
+  <lastmod>2018-11-20T17:30:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>http://www.emuwheel.tk/contacto/</loc>
-  <lastmod>2018-11-13T02:57:03+00:00</lastmod>
+  <lastmod>2018-11-20T17:30:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
