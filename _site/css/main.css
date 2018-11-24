@@ -194,6 +194,12 @@ h1,h2,h3,h4,h5,h6 {
   display: inline-block;
   font-size: 1em;
 }
+.menu-shop-anchor {
+  display: block;
+  position: relative;
+  top: -16vh;
+  visibility: hidden;
+}
 .product {
   width: 100%;
 }
@@ -208,8 +214,14 @@ h1,h2,h3,h4,h5,h6 {
   transform: translate(-50%, 0);
 }
 .down-arrow a {
-  color: #557c839f;
+  color: #12d490b0;
   font-size: 4em;
+}
+.hero-product-anchor {
+  display: block;
+  position: relative;
+  top: -16vh;
+  visibility: hidden;
 }
 .hero-product-content h1 {
   color: #12d491;
@@ -450,6 +462,9 @@ h1,h2,h3,h4,h5,h6 {
     text-transform: uppercase;
     top: 35%;
     transform: translate(0, -50%);
+  }
+  .hero-product-anchor {
+    top: -12.5vh;
   }
 
   /* INFO STYLES */
