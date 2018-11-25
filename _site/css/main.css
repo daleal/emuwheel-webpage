@@ -636,6 +636,15 @@ h1,h2,h3,h4,h5,h6 {
     top: -12.5vh;
   }
 
+  /* PRODUCT-PAGE-HERO STYLES */
+  .product-button {
+    margin-left: 50vw;
+    transform: translate(-50%, 0);
+  }
+  .hero-product-2 {
+    background-position-x: 35%;
+  }
+
   /* INFO STYLES */
   .section-header h1 {
     font-size: 3.5em;
@@ -653,11 +662,6 @@ h1,h2,h3,h4,h5,h6 {
   /* MENU-SHOP STYLES */
   .menu-shop {
     display: none;
-  }
-
-  /* PRODUCT-PAGE-HERO STYLES */
-  .hero-product-2 {
-    background-position-x: 35%;
   }
 
   /* CONTACT STYLES */
