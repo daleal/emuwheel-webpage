@@ -260,6 +260,9 @@ h1,h2,h3,h4,h5,h6 {
   margin-left: 0;
   width: 18vw;
 }
+.product-description {
+  text-align: justify;
+}
 .main-product-description:before {
   font-family: "Font Awesome 5 Free";
   color: #12d491;
@@ -294,6 +297,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.5em;
   padding-top: 10vh;
   padding-left: 65vw;
+  width: 26vw;
 }
 .product-2-data h2 {
   line-height: 1.3em;
@@ -318,6 +322,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.5em;
   padding-top: 45vh;
   padding-left: 5vw;
+  width: 33vw;
 }
 .product-3-data h2 {
   line-height: 1.3em;
@@ -342,6 +347,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.5em;
   padding-top: 6vh;
   padding-left: 63vw;
+  width: 28vw;
 }
 .product-4-data h2 {
   line-height: 1.3em;
@@ -366,6 +372,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.5em;
   padding-top: 45vh;
   padding-left: 5vw;
+  width: 31vw;
 }
 .product-5-data h2 {
   line-height: 1.3em;
@@ -688,15 +695,22 @@ h1,h2,h3,h4,h5,h6 {
   .product-2-data {
     color: #12d491;
     font-size: 2vh;
-    padding-top: 3vh;
-    padding-left: 40vw;
+    padding-top: 2vh;
+    padding-left: 30vw;
+    width: 60vw;
   }
   .product-2-data h2 {
     color: #0f0924;
     font-size: 3.5vh;
   }
+  .product-2-data span {
+    color: #b0f01a;
+    font-weight: bold;
+  }
   .product-3-data {
     font-size: 2.5vh;
+    padding-left: 7vw;
+    width: 86vw;
   }
   .product-3-data h2 {
     font-size: 3vh;
@@ -704,7 +718,8 @@ h1,h2,h3,h4,h5,h6 {
   .product-4-data {
     font-size: 2.2vh;
     padding-top: 3vh;
-    padding-left: 5vw;
+    padding-left: 7vw;
+    width: 86vw;
   }
   .product-4-data h2 {
     font-size: 3vh;
@@ -712,7 +727,7 @@ h1,h2,h3,h4,h5,h6 {
   .product-5-data {
     font-size: 2.2vh;
     padding-top: 3vh;
-    width: 60vw;
+    width: 55vw;
   }
   .product-5-data h2 {
     font-size: 3vh;
