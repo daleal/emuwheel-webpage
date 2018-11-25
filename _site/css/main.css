@@ -645,7 +645,7 @@ h1,h2,h3,h4,h5,h6 {
     margin-left: -2.5vh;
   }
   .product-description:before {
-    margin-left: -1.3vh;
+    margin-left: -2vh;
   }
   .hero-product-content h1 {
     font-size: 8vh;
@@ -695,48 +695,19 @@ h1,h2,h3,h4,h5,h6 {
     color: #0f0924;
     font-size: 3.5vh;
   }
-  .product-2-data hr {
-    border: 1px solid #0f0924;
-    margin-top: 3vw;
-    margin-bottom: 1.5vw;
-    margin-left: 0;
-    width: 10vw;
-  }
   .product-3-data {
-    color: #fff;
-    line-height: 1.5em;
-    padding-top: 45vh;
-    padding-left: 5vw;
+    font-size: 2.5vh;
   }
   .product-3-data h2 {
-    line-height: 1.3em;
-    font-size: 2vw;
-    margin-bottom: 2vh;
-  }
-  .product-3-data hr {
-    border: 1px solid #fff;
-    margin-top: 3vw;
-    margin-bottom: 1.5vw;
-    margin-left: 0;
-    width: 10vw;
+    font-size: 3vh;
   }
   .product-4-data {
-    color: #0f0924;
-    line-height: 1.5em;
-    padding-top: 6vh;
-    padding-left: 63vw;
+    font-size: 2.2vh;
+    padding-top: 3vh;
+    padding-left: 5vw;
   }
   .product-4-data h2 {
-    line-height: 1.3em;
-    font-size: 2vw;
-    margin-bottom: 2vh;
-  }
-  .product-4-data hr {
-    border: 1px solid #0f0924;
-    margin-top: 3vw;
-    margin-bottom: 1.5vw;
-    margin-left: 0;
-    width: 10vw;
+    font-size: 3vh;
   }
   .product-5-data {
     color: #fff;
