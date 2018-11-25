@@ -259,6 +259,24 @@ h1,h2,h3,h4,h5,h6 {
   margin-left: 0;
   width: 18vw;
 }
+.main-product-description:before {
+  font-family: "Font Awesome 5 Free";
+  color: #12d491;
+  content: "\f101";
+  display: inline-block;
+  margin-left: -2.5vw;
+  position: absolute;
+  font-weight: bold;
+}
+.product-description:before {
+  font-family: "Font Awesome 5 Free";
+  color: #12d491;
+  content: "\f105";
+  display: inline-block;
+  margin-left: -1.3vw;
+  position: absolute;
+  font-weight: bold;
+}
 .product-button {
   position: absolute;
   margin-top: 65vh;
