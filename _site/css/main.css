@@ -685,6 +685,77 @@ h1,h2,h3,h4,h5,h6 {
   .hero-product-2 {
     background-position-x: 35%;
   }
+  .product-2-data {
+    color: #12d491;
+    font-size: 2vh;
+    padding-top: 3vh;
+    padding-left: 40vw;
+  }
+  .product-2-data h2 {
+    color: #0f0924;
+    font-size: 3.5vh;
+  }
+  .product-2-data hr {
+    border: 1px solid #0f0924;
+    margin-top: 3vw;
+    margin-bottom: 1.5vw;
+    margin-left: 0;
+    width: 10vw;
+  }
+  .product-3-data {
+    color: #fff;
+    line-height: 1.5em;
+    padding-top: 45vh;
+    padding-left: 5vw;
+  }
+  .product-3-data h2 {
+    line-height: 1.3em;
+    font-size: 2vw;
+    margin-bottom: 2vh;
+  }
+  .product-3-data hr {
+    border: 1px solid #fff;
+    margin-top: 3vw;
+    margin-bottom: 1.5vw;
+    margin-left: 0;
+    width: 10vw;
+  }
+  .product-4-data {
+    color: #0f0924;
+    line-height: 1.5em;
+    padding-top: 6vh;
+    padding-left: 63vw;
+  }
+  .product-4-data h2 {
+    line-height: 1.3em;
+    font-size: 2vw;
+    margin-bottom: 2vh;
+  }
+  .product-4-data hr {
+    border: 1px solid #0f0924;
+    margin-top: 3vw;
+    margin-bottom: 1.5vw;
+    margin-left: 0;
+    width: 10vw;
+  }
+  .product-5-data {
+    color: #fff;
+    line-height: 1.5em;
+    padding-top: 45vh;
+    padding-left: 5vw;
+  }
+  .product-5-data h2 {
+    line-height: 1.3em;
+    font-size: 2vw;
+    margin-bottom: 2vh;
+  }
+  .product-5-data hr {
+    border: 1px solid #fff;
+    margin-top: 3vw;
+    margin-bottom: 1.5vw;
+    margin-left: 0;
+    width: 10vw;
+  }
 
   /* INFO STYLES */
   .section-header h1 {
