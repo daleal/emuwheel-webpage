@@ -13,7 +13,7 @@ Cada EMU Wheel incluye una base de recarga que puedes usar en tu casa. Con menos
 
 # ¿Qué tan seguido debo recargar mi EMU Wheel?
 
-Depende de su uso. En general, un dispositivo eléctrico de micro-movilidad consume 10Wh por km a 20°C en terreno plano y liso sin viento, a velocidad constante, con un usuario de 75 kg y un neumático inflado a la presión recomendada. En las condiciones especificadas, cada EMU Wheel tiene una autonomia de mas de 100 km con una carga completa, lo que generalmente es suficiente para ir a trabajar durante toda la semana. Es una rueda eléctrica muy eficiente energéticamente.
+Depende de su uso. En general, un dispositivo eléctrico de micro-movilidad consume 10Wh por km a 20°C en terreno plano y liso sin viento, a velocidad constante, con un usuario de 75 kg y un neumático inflado a la presión recomendada. En las condiciones especificadas, cada EMU Wheel tiene una autonomia de más de 100 km con una carga completa, lo que generalmente es suficiente para ir a trabajar durante toda la semana. Es una rueda eléctrica muy eficiente energéticamente.
 
 # ¿Cómo sé si me estoy quedando sin batería?
 

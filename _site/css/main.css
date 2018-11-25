@@ -229,12 +229,12 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'eurofurence light  italic';
   font-size: 6vw;
 }
-.hero-product-content {
-  font-size: 2vw;
-}
-.hero-product-content h1 span {
-  color: #12d491;
+.hero-product-content h2 {
+  font-family: 'Open Sans', arial, sans;
   font-weight: bold;
+}
+.hero-product-content {
+  font-size: 1.2vw;
 }
 .hero-product-1 {
   background-image: url(/images/content/emu_fotomontaje.jpg);
@@ -243,9 +243,14 @@ h1,h2,h3,h4,h5,h6 {
   position: relative;
 }
 .product-1-data {
+  font-size: 2vw;
   padding-top: 35vh;
   padding-left: 5vw;
   color: #fff;
+}
+.product-1-data h1 span {
+  color: #12d491;
+  font-weight: bold;
 }
 .product-1-data hr {
   border: 1px solid #fff;
@@ -265,23 +270,95 @@ h1,h2,h3,h4,h5,h6 {
   background-position-y: 20%;
   position: relative;
 }
+.product-2-data {
+  color: #0f0924;
+  line-height: 1.5em;
+  padding-top: 10vh;
+  padding-left: 65vw;
+}
+.product-2-data h2 {
+  line-height: 1.3em;
+  font-size: 2vw;
+  margin-bottom: 2vh;
+}
+.product-2-data hr {
+  border: 1px solid #0f0924;
+  margin-top: 3vw;
+  margin-bottom: 1.5vw;
+  margin-left: 0;
+  width: 10vw;
+}
 .hero-product-3 {
   background-image: url(/images/content/emu_fotomontaje3-redone.jpg);
   background-position-x: center;
   background-position-y: top;
   position: relative;
 }
+.product-3-data {
+  color: #fff;
+  line-height: 1.5em;
+  padding-top: 45vh;
+  padding-left: 5vw;
+}
+.product-3-data h2 {
+  line-height: 1.3em;
+  font-size: 2vw;
+  margin-bottom: 2vh;
+}
+.product-3-data hr {
+  border: 1px solid #fff;
+  margin-top: 3vw;
+  margin-bottom: 1.5vw;
+  margin-left: 0;
+  width: 10vw;
+}
 .hero-product-4 {
-  background-image: url(/images/content/v8_06.jpg);
+  background-image: url(/images/content/emu_fotomontaje5.jpg);
   background-position-x: center;
   background-position-y: 20%;
   position: relative;
+}
+.product-4-data {
+  color: #0f0924;
+  line-height: 1.5em;
+  padding-top: 6vh;
+  padding-left: 63vw;
+}
+.product-4-data h2 {
+  line-height: 1.3em;
+  font-size: 2vw;
+  margin-bottom: 2vh;
+}
+.product-4-data hr {
+  border: 1px solid #0f0924;
+  margin-top: 3vw;
+  margin-bottom: 1.5vw;
+  margin-left: 0;
+  width: 10vw;
 }
 .hero-product-5 {
   background-image: url(/images/content/emu_fotomontaje4.jpg);
   background-position-x: center;
   background-position-y: 20%;
   position: relative;
+}
+.product-5-data {
+  color: #fff;
+  line-height: 1.5em;
+  padding-top: 45vh;
+  padding-left: 5vw;
+}
+.product-5-data h2 {
+  line-height: 1.3em;
+  font-size: 2vw;
+  margin-bottom: 2vh;
+}
+.product-5-data hr {
+  border: 1px solid #fff;
+  margin-top: 3vw;
+  margin-bottom: 1.5vw;
+  margin-left: 0;
+  width: 10vw;
 }
 
 /* FOOTER STYLES */
@@ -499,6 +576,11 @@ h1,h2,h3,h4,h5,h6 {
   /* MENU-SHOP STYLES */
   .menu-shop {
     display: none;
+  }
+
+  /* PRODUCT-PAGE-HERO STYLES */
+  .hero-product-2 {
+    background-position-x: 35%;
   }
 
   /* CONTACT STYLES */
