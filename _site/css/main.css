@@ -195,6 +195,12 @@ h1,h2,h3,h4,h5,h6 {
   display: inline-block;
   font-size: 1em;
 }
+.desktop-button {
+  display: inline-block;
+}
+.mobile-button {
+  display: none;
+}
 .menu-shop-anchor {
   display: block;
   position: relative;
@@ -651,6 +657,12 @@ h1,h2,h3,h4,h5,h6 {
   }
   .hero-button {
     padding: 3vh 5vw;
+  }
+  .desktop-button {
+    display: none;
+  }
+  .mobile-button {
+    display: inline-block;
   }
   .main-product-description:before {
     margin-left: -2.5vh;
