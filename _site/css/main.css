@@ -641,6 +641,47 @@ h1,h2,h3,h4,h5,h6 {
     margin-left: 50vw;
     transform: translate(-50%, 0);
   }
+  .main-product-description:before {
+    margin-left: -2.5vh;
+  }
+  .product-description:before {
+    margin-left: -1.3vh;
+  }
+  .hero-product-content h1 {
+    font-size: 8vh;
+  }
+  .hero-product-content h2 {
+    font-family: 'Open Sans', arial, sans;
+    font-weight: bold;
+  }
+  .hero-product-content {
+    font-size: 1.8vh;
+  }
+  .hero-product-1 {
+    background-image: url(/images/content/emu_fotomontaje.jpg);
+    background-position-x: center;
+    background-position-y: 20%;
+    position: relative;
+  }
+  .product-1-data {
+    font-size: 2.5vh;
+    font-weight: bold;
+    padding-top: 35vh;
+    margin-left: 10vw;
+    color: #fff;
+    width: 80vw;
+  }
+  .product-1-data h1 {
+    color: #fff;
+    font-weight: bold;
+  }
+  .product-1-data hr {
+    border: 1px solid #fff;
+    margin-top: 3vw;
+    margin-bottom: 1.5vw;
+    margin-left: 0;
+    width: 18vw;
+  }
   .hero-product-2 {
     background-position-x: 35%;
   }
