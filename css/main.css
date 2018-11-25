@@ -394,7 +394,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.5rem;
   margin-right: 5vw;
   order: 0;
-  padding-top: 20vh;
+  padding-top: 15vh;
   text-align: justify;
 }
 .shop-data hr {
@@ -412,7 +412,7 @@ h1,h2,h3,h4,h5,h6 {
 .shop-image {
   flex: 1 1 0;
   order: 1;
-  padding-top: 20vh;
+  padding-top: 15vh;
 }
 .shop-image img {
   margin: auto;
