@@ -710,22 +710,12 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 3vh;
   }
   .product-5-data {
-    color: #fff;
-    line-height: 1.5em;
-    padding-top: 45vh;
-    padding-left: 5vw;
+    font-size: 2.2vh;
+    padding-top: 3vh;
+    width: 60vw;
   }
   .product-5-data h2 {
-    line-height: 1.3em;
-    font-size: 2vw;
-    margin-bottom: 2vh;
-  }
-  .product-5-data hr {
-    border: 1px solid #fff;
-    margin-top: 3vw;
-    margin-bottom: 1.5vw;
-    margin-left: 0;
-    width: 10vw;
+    font-size: 3vh;
   }
 
   /* INFO STYLES */
