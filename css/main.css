@@ -186,6 +186,7 @@ h1,h2,h3,h4,h5,h6 {
 .hero-button {
   background-color: #12d491;
   border: none;
+  border-radius: 7px;
   color: white;
   cursor: pointer;
   padding: 1em 2em;
@@ -377,6 +378,64 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom: 1.5vw;
   margin-left: 0;
   width: 10vw;
+}
+
+/* SHOP STYLES */
+.shop {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  width: 70%;
+}
+.shop-data {
+  color: #fff;
+  flex: 1 1 0;
+  line-height: 1.5rem;
+  margin-right: 5vw;
+  order: 0;
+  padding-top: 20vh;
+  text-align: justify;
+}
+.shop-data hr {
+  border: 1px solid #fff;
+  margin-top: 2.5vh;
+  margin-bottom: 2.5vh;
+  margin-left: 0;
+  width: 10vw;
+}
+.shop-data h1 {
+  font-size: 3vw;
+  font-weight: bold;
+  margin-bottom: 5.5vh;
+}
+.shop-image {
+  flex: 1 1 0;
+  order: 1;
+  padding-top: 20vh;
+}
+.shop-image img {
+  margin: auto;
+  width: 25vw;
+}
+.shop-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: auto;
+  margin-top: 3vh;
+}
+.shop-button {
+
+}
+.product-shop {
+  background-color: #fff;
+}
+.product-shop .shop-data {
+  color: #0f0924;
+}
+.product-shop .shop-data hr {
+  border: 1px solid #0f0924;
 }
 
 /* FOOTER STYLES */
@@ -612,5 +671,14 @@ h1,h2,h3,h4,h5,h6 {
   .location {
     height: 40vh;
     width: 40vh;
+  }
+  .social-links {
+    margin-left: 18vw;
+  }
+  .social-link {
+    color: #12d491;
+    font-size: 15vw;
+    margin-right: 2.5vw;
+    margin-left: 2.5vw;
   }
 }
