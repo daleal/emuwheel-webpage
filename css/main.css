@@ -645,8 +645,12 @@ h1,h2,h3,h4,h5,h6 {
 
   /* PRODUCT-PAGE-HERO STYLES */
   .product-button {
+    margin-top: 60vh;
     margin-left: 50vw;
     transform: translate(-50%, 0);
+  }
+  .hero-button {
+    padding: 3vh 5vw;
   }
   .main-product-description:before {
     margin-left: -2.5vh;
