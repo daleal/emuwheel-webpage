@@ -16,6 +16,6 @@ $(function() {
 
 jQuery(window).load(function(){
     if (jQuery(window).width() <= 800){
-        jQuery(".hero-actions a").attr("href", "/la-rueda")
+        jQuery(".hero-actions a").attr("href", "/la-rueda#product-shop")
     }
 });

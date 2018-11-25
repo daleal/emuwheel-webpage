@@ -200,6 +200,7 @@ h1,h2,h3,h4,h5,h6 {
   top: -16vh;
   visibility: hidden;
 }
+/* PRODUCT-PAGE-HERO STYLES */
 .product {
   width: 100%;
 }
@@ -228,6 +229,9 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'eurofurence light  italic';
   font-size: 6vw;
 }
+.hero-product-content {
+  font-size: 2vw;
+}
 .hero-product-content h1 span {
   color: #12d491;
   font-weight: bold;
@@ -245,9 +249,15 @@ h1,h2,h3,h4,h5,h6 {
 }
 .product-1-data hr {
   border: 1px solid #fff;
-  margin-top: 5vw;
-  margin-left: 1vw;
+  margin-top: 3vw;
+  margin-bottom: 1.5vw;
+  margin-left: 0;
   width: 18vw;
+}
+.product-button {
+  position: absolute;
+  margin-top: 65vh;
+  margin-left: 5vw;
 }
 .hero-product-2 {
   background-image: url(/images/content/emu_fotomontaje2.jpg);
