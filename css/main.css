@@ -425,8 +425,8 @@ h1,h2,h3,h4,h5,h6 {
   margin: auto;
   margin-top: 3vh;
 }
-.shop-button {
-
+.product-shop .know-more-button {
+  display: none;
 }
 .product-shop {
   background-color: #fff;
