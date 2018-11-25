@@ -747,7 +747,30 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 1.1em;
   }
 
-  /* MENU-SHOP STYLES */
+  /* SHOP STYLES */
+  .shop {
+    flex-direction: column;
+    margin-left: 7.5vw;
+    width: 85vw;
+  }
+  .main-shop-info {
+    display: none;
+  }
+  .shop-data {
+    margin-right: 0;
+    padding-top: 5vh;
+    width: 100%;
+  }
+  .shop-data h1 {
+    font-size: 6vh;
+  }
+  .shop-image {
+    padding-top: 3.5vh;
+  }
+  .shop-image img {
+    margin-left: 17.5vw;
+    width: 50vw;
+  }
   .menu-shop {
     display: none;
   }
