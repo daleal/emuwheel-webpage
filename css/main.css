@@ -145,6 +145,44 @@ h1,h2,h3,h4,h5,h6 {
   display: none;
 }
 
+/* LITTLE-FOOTER STYLES */
+.section-footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  font-style: italic;
+  font-size: 0.8em;
+  line-height: 1.5;
+  margin: auto;
+  margin-top: 2vh;
+  padding-top: 3vh;
+  padding-bottom: 5vh;
+  text-align: center;
+  width: 40vw;
+}
+
+/* LINK STYLES */
+.link:link {
+  color: #12d491;
+}
+
+.link:visited {
+  color: #b0f01a;
+}
+
+.link:focus {
+  border-bottom: 1px solid;
+  background: #BAE498;
+}
+
+.link:hover {
+  border-bottom: 1px solid;
+  background: #CDFEAA;
+}
+
+.link:active {
+  background: #265301;
+  color: #CDFEAA;
+}
+
 /* HERO STYLES */
 .home {
   width: 100%;
