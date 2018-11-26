@@ -7,28 +7,33 @@ title: Nosotros
 
 EMU Wheel© nació en 2018 de la idea de cuatros amigos que querían desarrollar un medio de transporte más eficiente para los desplazamientos en Santiago. La idea era diseñar una forma de escabullirse como un pájaro entre la gente del centro de la ciudad, ahorrando tiempo desde la salida del metro hasta su lugar de trabajo. Aquella idea fue materializada en Electric Motorized Unicycle Wheel©.
 
-<img class="us-image" src="/images/content/venveo-609390-unsplash.jpg"
-     alt="Nuestro Equipo EMU Wheel">
+<div class="about-us-image-wrapper">
+    <img class="about-us-image" src="/images/content/foto-nosotros.jpeg"
+        alt="Nuestro Equipo EMU Wheel">
+</div>
 
-# Nuestro Staff
-
-## Antoine Martin
-
-- Presidente del directorio.
-- Origen francés
-- Encargado de relaciones internacionales
-
-## Martín Bambach
-
-- CEO
-- Diseñador frustrado
-- Encargado de relaciones nacionales
-
-## Yanira Riquelme
-
-- CMO
-- Communication manager
+# NUESTRO STAFF (EN ORDEN)
 
 ## Daniel Leal
 
 - CTO
+- Security Manager
+- No duerme
+
+## Yanira Riquelme
+
+- CMO
+- Communication Manager
+- Ávida emprendedora
+
+## Antoine Martin
+
+- Chairman
+- International Relations Manager
+- Origen francés
+
+## Martín Bambach
+
+- CEO
+- National Relations Manager
+- Diseñador frustrado
