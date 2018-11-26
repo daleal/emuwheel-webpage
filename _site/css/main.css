@@ -833,7 +833,13 @@ h1,h2,h3,h4,h5,h6 {
     line-height: 1.3;
   }
   .section-content h1 {
-    font-size: 1.1em;
+    font-size: 1.4em;
+    text-align: left;
+  }
+  .section-content ul li:before {
+    margin-left: -2.5vh;
+    position: absolute;
+    font-weight: bold;
   }
 
   /* SHOP STYLES */
