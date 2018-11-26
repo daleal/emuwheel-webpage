@@ -504,6 +504,7 @@ h1,h2,h3,h4,h5,h6 {
   width: 85vw;
 }
 .section-content h1 {
+  color: #12d491;
   font-size: 1.5em;
   font-weight: bold;
   padding-top: 1.8em;
