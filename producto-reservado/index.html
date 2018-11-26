@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="full-hero">
+    <div class="booked-text">
+      <h1>¡Felicitaciones!</h1>
+      Tu EMU Wheel ha sido correctamente reservada! Ahora solo debes dirigirte
+      a nuestra tienda, pagar tu producto y comenzar a disfrutar!
+      <div class="booked-number">
+        Tu número de pedido es el <a id="number"></a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  var number = generateRandomNumber();
+  document.getElementById('number').innerHTML = number;
+</script>
