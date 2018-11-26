@@ -717,6 +717,18 @@ input[type=text], select {
     text-align: center;
   }
 
+  /* LITTLE-FOOTER STYLES */
+  .section-footer {
+    font-size: 0.8em;
+    line-height: 1.5;
+    margin: auto;
+    margin-top: 20vh;
+    padding-top: 3vh;
+    padding-bottom: 5vh;
+    text-align: center;
+    width: 70vw;
+  }
+
   /* HERO STYLES */
   .full-hero {
     height: 87.5vh;
@@ -873,6 +885,7 @@ input[type=text], select {
     display: none;
   }
   .shop-data {
+    line-height: 3.5vh;
     margin-right: 0;
     padding-top: 3.5vh;
     width: 100%;
@@ -884,8 +897,9 @@ input[type=text], select {
     padding-top: 3.5vh;
   }
   .shop-image img {
-    margin-left: 17.5vh;
-    width: 50vw;
+    margin-left: 50%;
+    transform: translate(-50%, 0);
+    width: 70vw;
   }
   .menu-shop {
     display: none;
@@ -911,5 +925,11 @@ input[type=text], select {
     font-size: 15vw;
     margin-right: 2.5vw;
     margin-left: 2.5vw;
+  }
+  /* BOOKED STYLES */
+  .booked-number {
+    margin-top: 10vh;
+    color: #fff;
+    font-size: 3vh;
   }
 }
